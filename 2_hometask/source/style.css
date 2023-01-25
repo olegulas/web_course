@@ -1,0 +1,19 @@
+img {
+    width: auto;
+}
+
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.ul_sofiasans {
+    font-family: 'SofiaSans', sans-serif;
+}
+
+@font-face {
+    font-family: "SofiaSans";
+    src: url("SofiaSansSemiCondensed-Bold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
